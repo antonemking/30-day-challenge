@@ -1,5 +1,10 @@
 # 30-day-challenge
-MSEM project for Tufts Uni EM209 - Leadership: Driving and Manage Change 
+
+Writing everyday for 30 days on the topic of IoT and its role in Digital Transformations
+
+---
+
+## MSEM project for Tufts Uni EM209 - Leadership: Driving and Manage Change 
 
 - [Day 1- Introduction to IoT- Understanding the concept, its components, and its impact on digital transformations.](day-1.md)
 - [[Day 2- The Evolution of IoT- A brief history of IoT and its role in shaping the digital landscape. ]]
