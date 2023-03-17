@@ -1,6 +1,6 @@
 # 30-day-challenge
 
-Writing everyday for 30 days on the topic of Customer Success.
+Writing everyday for 30 days on the topic of the Importance of Customer Success. Sink or Swim.
 
 ---
 
