@@ -1,4 +1,4 @@
-# Tufts 30-day-challenge - EM209 - Leadership: Driving and Managing Change
+# Tufts 30 day challenge: EM209 - Leadership: Driving and Managing Change
 
 Writing everyday for 30 days on Importance of Customer Success. Sink or Swim.
 
