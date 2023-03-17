@@ -1,13 +1,12 @@
-# 30-day-challenge
+# Tufts 30-day-challenge - EM209 - Leadership: Driving and Managing Change
 
-Writing everyday for 30 days on the topic of the Importance of Customer Success. Sink or Swim.
+Writing everyday for 30 days on Importance of Customer Success. Sink or Swim.
 
 ---
 
-## MSEM project for Tufts Uni EM209 - Leadership: Driving and Manage Change 
 
 ### Week 1: Understanding Customer Loyalty and Success
--   Day 1: The importance of customer loyalty in today's business landscape
+-   [Day 1: The importance of customer loyalty in today's business landscape](Day-1.md)
 -   Day 2: The role of customer success in driving loyalty
 -   Day 3: Identifying your target customers and their expectations
 -   Day 4: The relationship between customer satisfaction and loyalty
