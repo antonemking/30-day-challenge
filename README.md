@@ -1,7 +1,7 @@
 # 30-day-challenge
 MSEM project for Tufts Uni EM209 - Leadership: Driving and Manage Change 
 
-- [Day 1- Introduction to IoT- Understanding the concept, its components, and its impact on digital transformations.](Day 1.md)
+- [Day 1- Introduction to IoT- Understanding the concept, its components, and its impact on digital transformations.](/Day 1.md)
 - [[Day 2- The Evolution of IoT- A brief history of IoT and its role in shaping the digital landscape. ]]
 - [[Day 3- IoT Technologies- Exploring the key enabling technologies, such as sensors, connectivity, and platforms.]] 
 - [[Day 4- IoT Security and Privacy- Addressing the challenges and best practices for ensuring data protection in IoT systems.]] 
