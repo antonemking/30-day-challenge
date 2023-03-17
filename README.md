@@ -9,10 +9,10 @@ Writing everyday for 30 days on Importance of Customer Success. Sink or Swim.
 -   [Day 1: The importance of customer loyalty in today's business landscape](day-1.md)
 -   [Day 2: The role of customer success in driving loyalty](day-2.md)
 -   [Day 3: Identifying your target customers and their expectations](day-3.md)
--   Day 4: The relationship between customer satisfaction and loyalty
--   Day 5: Key customer success metrics and KPIs to track loyalty
--   Day 6: Building a customer success strategy focused on loyalty
--   Day 7: Review and reflection on Week 1
+-   [Day 4: The relationship between customer satisfaction and loyalty](day-4.md)
+-   [Day 5: Key customer success metrics and KPIs to track loyalty](day-5.md)
+-   [Day 6: Building a customer success strategy focused on loyalty](day-6.md)
+-   [Day 7: Review and reflection on Week 1](day-7.md)
 
 ### Week 2: Establishing Trust and Building Lasting Relationships
 -   Day 8: The art of effective communication with customers
