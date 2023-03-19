@@ -5,19 +5,19 @@ Writing everyday for 30 days on the Benfits on Productizing IT and the Importanc
 ---
 
 
-## Day 1: Introduction
-- Brief overview of IT productization and digital synergy
-- Importance of these concepts for modern organizations
+## [Day 1: Introduction](day-1.md)
+* Brief overview of IT productization and digital synergy
+* Importance of these concepts for modern organizations
 
-## Day 2: Customer-Centricity
-- Understanding the needs and preferences of internal and external customers
-- Tailoring IT products and services to meet customer requirements
+## [Day 2: Customer-Centricity](day-2.md)
+* Understanding the needs and preferences of internal and external customers
+* Tailoring IT products and services to meet customer requirements
 
-Day 3: Standardization
+## [Day 3: Standardization](day-3.md)
 * Developing standardized processes and frameworks for IT service delivery
 * Advantages of standardization for efficiency, consistency, and quality
 
-Day 4: Service Catalog and Packaging
+## [Day 4: Service Catalog and Packaging](day-4.md)
 * Designing a comprehensive service catalog
 * Packaging IT services for easy consumption
 
