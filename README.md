@@ -1,8 +1,16 @@
 # Tufts 30 day challenge: EM209 - Leadership: Driving and Managing Change
 
-Writing everyday for 30 days on the Benfits on Productizing IT and the Importance of Customer Success during a Digital Transformation
+Writing everyday for 30 days on:
+
+- Understanding IT productization and how it can faciliate digital synergy. 
+- DarK Money Pools
+- Fallacy that Education does not bring prosperity
+- Still thinking....
+
 
 ---
+
+*Need to adjust this because no longer buidling on a single theme. Getting bored of just one topic (ADHD).
 
 
 ## [Day 1: Introduction](day-1.md)
