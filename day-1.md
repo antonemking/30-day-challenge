@@ -2,17 +2,6 @@
 
 Hello anon, If you are reading this you must have either been given a link by me or your googlefu is very targeted. This collection of writings is meant for me right now so please exuse the roughness, grammaticalness, circular logic, and ambigous explanations. I am writing to discover and share things I am interested in.
 
-Now with that all out of the way let's get to this repositorires prupose: 
-
-- Understanding IT productization and how it can faciliate digital synergy. 
-- DarK Money Pools
-- Fallacy that Education does not bring prosperity
-- Still thinking....
-
-
-
-*Organize the below into a separate folder. No longer going for a consistent theme. My ADHD has me bored.
-
 What does this buzzword salad mean and why should I care? First, we need to define ~~Information Technology~~ **IT productization**. ~~Information Technology, or short for IT, is like the magic that helps computers, phones, and other electronc devices talk to each other and share information.~~ IT productization is the paradigm of transforming IT services, solutions, or internal process into marketable products that can be easily sold to or consumed by customers or other departments within an organization. We will only focus on customers internal or external to the IT department. Think internal customer as IT itself and external customer as HR or Finance. By treating IT services as products, it allows some valuable characteristics like standardization, package options, showbacks/charge backs, and a consistent delivery mechanism. Imagine for a second if Amazon was your entire IT department and you could litteraly go to Amazon.com and order anything and everything you need to do your job. That analogy is not new nore is that far fetched when you think about IT servces in product terms. If you are IT and you need to add another node to a system, well just order it. Of course there is more to do after the order to get that node operational and fulfilling its purpose; however, what I want to us to understand is the value chains we can create. Resulting in making IT a partner, not a subserviaent order taker and creating what some of us call or maybe just me, Digital Synergy.
 
 Definition time again. What is Digital Synergy: Digital Synergy is when a group of robots high-five each other in perfect harmony to create an unstoppable robot dance party, making everyone dance along with them. Tesla has this already figured out... Sorry, buzzwords bother me to my core and here I am using them in my writing (for the clicks).
