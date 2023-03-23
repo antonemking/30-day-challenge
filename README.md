@@ -13,7 +13,7 @@ Writing everyday for 30 days on:
 *Need to adjust this because no longer buidling on a single theme. Getting bored of just one topic (ADHD).
 
 
-## [Day 1: Introduction](day-1.md)
+## [Day 1: IT Productization](day-1.md)
 * Brief overview of IT productization and digital synergy
 * Importance of these concepts for modern organizations
 
@@ -21,9 +21,8 @@ Writing everyday for 30 days on:
 * Understanding the needs and preferences of internal and external customers
 * Tailoring IT products and services to meet customer requirements
 
-## [Day 3: Standardization](day-3.md)
-* Developing standardized processes and frameworks for IT service delivery
-* Advantages of standardization for efficiency, consistency, and quality
+## [Day 3: FDIC Insurance no longer a thing?](day-3.md)
+* Did the backstop of SVB deposits set a precendent that FDIC insurance is uncapped?
 
 ## [Day 4: Service Catalog and Packaging](day-4.md)
 * Designing a comprehensive service catalog
