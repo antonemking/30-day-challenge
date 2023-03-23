@@ -2,15 +2,14 @@
 # FDIC, the hero SVB didn't deserve
 
 
-I felt the urge to do some research on FDIC after the collapose of SVB. It made me wonder who pays for the insurance, who set the limit to 250k, and how many time has it been used to protecy depositors
+I felt the urge to do some research on FDIC after the collapose of SVB. It made me wonder who pays for the insurance, who set the limit to 250k, and how many time has it been used to protect depositors.
 
-TODO
+The Federal Deposit Insurance Corporation (FDIC) was created in 1933 as part of the Banking Act, which was signed into law by President Franklin D. Roosevelt. The establishment of the FDIC was a response to the widespread bank failures and loss of public confidence in the banking system that occurred during the Great Depression.
 
--[ ] Who pays and why 250k
- 
--[ ] Add case studies of when FDIC was used
+From its establishment in 1933 through the end of 2020, the FDIC has been involved in more than 3,000 bank failures. The FDIC has been particularly active during periods of financial stress, such as the Savings and Loan crisis in the 1980s and the financial crisis of 2007-2009. Throughout its history, no depositor has lost any insured funds as a result of a bank failure, which demonstrates the effectiveness of the FDIC in providing a safety net for depositors and maintaining confidence in the U.S. banking system.
 
-### What is FDIC ELI5
+
+### I still don't get what the FDIC is, ELI5
 
 FDIC insurance is like a safety net for your money when you put it in a bank. Imagine you have a piggy bank where you save all your money. One day, the piggy bank breaks, and all your money is gone. That would be very sad, right?
 
