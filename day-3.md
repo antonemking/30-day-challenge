@@ -10,6 +10,8 @@ FDIC insurance is like a safety net for your money when you put it in a bank. Im
 
 Now, think about the FDIC as a superhero that protects your piggy bank. If something happens to the bank where you keep your money, the superhero comes and saves your money, so you don't lose it. The superhero will protect the money you put in the bank, up to a certain amount, which means you can feel safe knowing your money is protected.
 
+### The heros journey
+
 
 Let me explain why I think the superhero analogy is perfect for FDIC. FDIC has a protection limit of 250k. This gives our superheor a theoretical known limit that sort of aligns to a real superhero. Dragonball Z for example, alot of the heros had known power limits they could reach. However, we all know those limits can get exceeded with the right catalyst e.g. weird alien tryting to kill everyone or Silicon Valley Bank collapse. 
 
