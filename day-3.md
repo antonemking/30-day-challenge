@@ -2,7 +2,13 @@
 # FDIC, the hero SVB didn't deserve
 
 
-I felt the urge to do some research on FDIC after the collapose of SVB. It made me wonder who pays for the insurance, who set the limit to 250k, and how many time has it been used to protecy depositors.
+I felt the urge to do some research on FDIC after the collapose of SVB. It made me wonder who pays for the insurance, who set the limit to 250k, and how many time has it been used to protecy depositors
+
+TODO
+
+-[ ] Who pays and why 250k
+ 
+-[ ] Add case studies of when FDIC was used
 
 ### What is FDIC ELI5
 
