@@ -24,9 +24,9 @@ Writing everyday for 30 days on:
 ## [Day 3: FDIC Insurance no longer a thing?](day-3.md)
 * Did the backstop of SVB deposits set a precendent that FDIC insurance is uncapped?
 
-## [Day 4: Service Catalog and Packaging](day-4.md)
-* Designing a comprehensive service catalog
-* Packaging IT services for easy consumption
+## [Day 4: What is a greater dopamine hit. A paycheck or recognition](day-4.md)
+* Getting the most satisfaction out of your job
+* Financial moves you can make to avoid Golden Handcuffs at FANNG
 
 Day 5: Agile and Scalable Solutions
 * Creating flexible, adaptable IT products and services
