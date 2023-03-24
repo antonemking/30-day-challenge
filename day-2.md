@@ -3,7 +3,7 @@
 
 ### Tailoring IT products and services to meet customer requirements
 
-For us to understand the evolution of technology expereicens we need to look back on the experiences we had in the 90s and early 2000s. This references will for one give you some appreciation of how far we have come and two, how consumer technology has significantly outpaced the technology provided to employees in the workplace. Therefore, impacting preferences and expectations for the work experiences people expect. This phenomenon, has been often referred to as the "consumerization of IT," which can be attributed to several factors.
+For us to understand the evolution of technology experiences we need to look back on the experiences we had in the 90s and early 2000s. This references will for one give you some appreciation of how far we have come and two, how consumer technology has significantly outpaced the technology provided to employees in the workplace. Therefore, impacting preferences and expectations for the work experiences people expect. This phenomenon, has been often referred to as the "consumerization of IT," which can be attributed to several factors.
 
 First, the rapid advancements in consumer technology have led to the development of user-friendly devices and applications, offering seamless experiences and intuitive interfaces. Smartphones, tablets, and various apps have become integral parts of people's daily lives, setting a high standard for user experience (UX) and ease of use. As a result, employees now expect similar levels of usability and convenience in their work-related tools and technologies. Can you even rememeber a world pre iPhone? It's hard to imagine now.
 
