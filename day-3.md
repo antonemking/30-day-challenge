@@ -21,11 +21,14 @@ Now, think about the FDIC as a superhero that protects your piggy bank. If somet
 ### The heros journey
 
 
-Let me explain why I think the superhero analogy is perfect for FDIC. FDIC has a protection limit of 250k. This gives our superheor a theoretical known limit that sort of aligns to a real superhero. Dragonball Z for example, alot of the heros had known power limits they could reach. However, we all know those limits can get exceeded with the right catalyst e.g. weird alien tryting to kill everyone or Silicon Valley Bank collapse. 
+Let me explain why I think the superhero analogy is perfect for FDIC. FDIC has a protection limit of 250k. This gives our superheor a theoretical known limit that sort of aligns to a real superhero. For example, Dragon Ball Z , most of the heros had known power limits. However, those limits can be exceeded with the right catalyst e.g. weird alien trying to kill everyone or Silicon Valley Bank contagion. 
 
-Now the resurgance of our hero didn't happen immmeadiately because he had to train, get beat up a bit and then when we least expect it the unbeatable villan gets outmatched by our hero. I don't compare this event to 2008, this wasn't a bail out of the bank, the equity went to 0. This was just protection of the depositors cash, cash that is used to fund payroll for their employees and continue operations. Imagine the immense contagion that would ensue if the hero in our story didn't untap its full potential. We would have witnessed the  extinction of alot of innovation and put the US at a disadvantage to our competitors.
+In my opinion I don't compare this event to the financial crisis of 2008, this wasn't a bail out of the bank, the equity went to 0, all shareholders were wiped out. This was protection of the depositors cash, cash that is used to fund payroll for their employees and continue operations. Imagine the collateral damage that would ensue if the hero in our story didn't untap its full potential. We would have witnessed the extinction of alot of innovation and put the US at a disadvantage to our competition. Not only that but the lost trust in local credit unions and smaller banks. 
 
-That is my view but I do realize that just like in the movies there is usally a trade off for unlocking that kind of power so I guess time will tell what is in-store in the next episode. Grab your 🍿
+One shouldn’t have to be a forensic accountant before opening a checking account. Silly talk and if it was… guess what, the only banks left would be JPM, Wells Fargo (EWW), and UBS maybe.
+
+
+Remeber there is usally a trade off for unlocking that kind of power so I guess time will tell what is in-store in the next episode. Grab your 🍿
 
 Be blessed.
 
