@@ -28,9 +28,8 @@ Writing everyday for 30 days on:
 * INFJs should focus on quality not quantity 
 
 
-Day 5: Agile and Scalable Solutions
-* Getting the most satisfaction out of your job
-* Financial moves you can make to avoid Golden Handcuffs at FANNG
+## [Day 5: Who are you as the leader of a learning org](day-5.md)
+
 
 Day 6: Data-Driven Decision-Making
 * Leveraging data analytics and AI for insights
